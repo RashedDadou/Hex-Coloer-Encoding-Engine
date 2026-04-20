@@ -3,7 +3,7 @@ The project idea is a system for converting letters into color-coded symbols ins
 
 ---
 
-✅ ## Features:
+## Features:
 
 Compressed representation: Long text → Short symbols (saving tokens).
 
@@ -17,7 +17,7 @@ No overfitting: Limited categories (26 letters + 7 families).
 
 ---
 
-✅ ## Better than one-hot encoding:
+## Better than one-hot encoding:
 
 One-hot: 26 columns per letter = 1000+ columns for a sentence
 
@@ -25,7 +25,7 @@ Hex colors: Only 7 hex codes = Fast + Compressed
 
 ---
 
-✅ ## Practical example:
+## Practical example:
 
 Text: "Hello"
 
@@ -35,7 +35,7 @@ Model input: [0xFF8E53, 0xA8E6CF, 0xDcedC1] ← Only 3 digits!
 
 ---
 
-🎨 ## Aesthetics:
+## 🎨 Aesthetics:
 
 Clear and organized hex colors.
 
