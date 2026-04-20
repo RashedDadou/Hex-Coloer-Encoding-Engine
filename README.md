@@ -45,7 +45,7 @@ Punctuation and spacing are maintained.
 
 ---
 
-🧠 Intelligence:
+## 🧠 Intelligence:
 
 Self-learning from files.
 
@@ -55,7 +55,7 @@ Compression: Long text → Shortcodes.
 
 ---
 
-⚡ Efficiency:
+## ⚡ Efficiency:
 
 1000-character text → 150 hex code → 70% token savings!
 
